@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bang</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+   	<string name="radio1_text">校友圈</string>	
+	<string name="radio2_text">资源库</string>
+	<string name="radio3_text">我</string>
+
+</resources>
